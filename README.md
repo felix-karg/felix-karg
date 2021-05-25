@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felix Karg
-- I study actually Computer Science at FernUniversität Hagen
+- I'm currently studying Computer Science at FernUniversität Hagen
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML and CSS
 - 📫 How to reach me felix_karg@gmx.de
