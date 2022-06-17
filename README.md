@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Felix Karg
-- I'm currently studying Computer Science at FernUniversität Hagen
+- I work as a trainee in software development at adesso SE
 - 👀 I’m interested in Web Development and Java
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: felix_karg@gmx.de
